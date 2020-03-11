@@ -14,6 +14,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="hxxRaven &lt;aircaok@gmail.com&gt;" />
         <option value="hxxRaven &lt;48386126+hxxraven@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -66,17 +67,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="261" y="0" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1583888808051" />
-    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1583888891553">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1583888951919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1583888891553" />
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1583888951919" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1583888830562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583888830562" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1583888851158">
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1583888972882">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1583888851158" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1583888972882" />
   </component>
 </project>
