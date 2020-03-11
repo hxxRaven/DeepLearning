@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aac6b8c-ad92-4710-970b-35f4b908a812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter2/01-tf_keras_classification_model_normalize.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/02-tf_keras_classification_model_normalize-callback.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/03-tf_keras_regression_mdoel_normalize.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hxxRaven &lt;48386126+hxxraven@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="06d2185e-1b5b-4698-8df8-e36bbb700031" />
+  <component name="ProjectId" id="1YxeVi9AXQBn6Qk5WLxRvFy7ZDj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../android-sdk-windows" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DeepLearning\Chapter2" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aac6b8c-ad92-4710-970b-35f4b908a812" name="Default Changelist" comment="" />
+      <created>1583888697463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583888697463</updated>
+      <workItem from="1583888701302" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Inspections" timestamp="1583888808051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="0" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1583888808051" />
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1583888891553">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1583888891553" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1583888830562">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583888830562" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1583888851158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1583888851158" />
+  </component>
+</project>
